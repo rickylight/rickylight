@@ -1,8 +1,8 @@
 Hi, I'm Richard Alaefule 👋
 
-Accounting Graduate | Data Analyst | Business & Financial Analytics
+Accountant | Data Analyst | Business & Financial Analytics
 
-I'm an Accounting graduate with hands-on experience in data analysis and business intelligence. I combine financial knowledge with analytical skills to uncover trends, solve problems and generate actionable business insights.
+I'm an Accountant with hands-on experience in data analysis and business intelligence. I love to combine financial knowledge with analytical skills to uncover trends, solve problems and generate actionable business insights.
 
 🛠️ Technical Skills
 
@@ -11,23 +11,6 @@ I'm an Accounting graduate with hands-on experience in data analysis and busines
 - Power BI: Data Visualization, Dashboards and Business Intelligence.
 - Statistical Analysis: Statistical Testing and Data Interpretation.
 - Financial Analysis: Profitability and Business Performance Analysis.
-
-📊 Areas of Interest
-
-- Accounting and Financial Analysis
-- Data Analytics and Business Intelligence
-- Artificial Intelligence
-- AI Data Annotation and Evaluation
-- Data-Driven Decision Making
-
-🚀 Projects
-
-Practical projects involving:
-
-- Data Cleaning and Exploratory Analysis
-- Financial and Sales Analysis
-- SQL Database Exploration
-- Power BI Dashboards
 
 🎯 Professional Focus
 
